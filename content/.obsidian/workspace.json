@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "a833f644c1aadae5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a90e9001c8dc382e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc1f46c918ddbfbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "embracing-the-breeze.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "embracing-the-breeze"
+            }
+          },
+          {
+            "id": "d2ea004790eaaabf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "draft/-New Page-.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "-New Page-"
+            }
+          },
+          {
+            "id": "05b529d7a533294f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "draft/-New Page-.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "-New Page-"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82577ccfaa92c5b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f177df8198de9bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bd81b0ec8850719",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "795be02292351937",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4886d11a0c44d645",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6bd7c26d77197cbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a755f696b4ac80fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fdbb49411f70cbe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "hidden/style-guide.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for style-guide"
+            }
+          },
+          {
+            "id": "0f8e1e2704beeed8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "hidden/style-guide.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from style-guide"
+            }
+          },
+          {
+            "id": "e3af53b538ea0f16",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7b76112395fbc4c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "hidden/style-guide.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of style-guide"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cc1f46c918ddbfbc",
+  "lastOpenFiles": [
+    "5-simple-tips-for-a-more-organized-life.md",
+    "changelog.md",
+    "draft.md",
+    "ode-to-svelte.md",
+    "draft/-New Page-.md",
+    "tablog-minimalistic-blog-theme.md",
+    "Philorona.md",
+    "hidden/5-simple-tips-for-a-more-organized-life.md",
+    "hidden/how-to-create-a-successful-morning-routine.md",
+    "hidden/changelog.md",
+    "hidden/draft.md",
+    "hidden/embracing-the-breeze.md",
+    "hidden/forged-with-runes.md",
+    "hidden/ode-to-svelte.md",
+    "hidden/style-guide.md",
+    "hidden/the-benefits-of-a-good-night-s-sleep.md",
+    "hidden/the-power-of-mindfulness-in-daily-life.md",
+    "hidden/Untitled.md",
+    "draft/Untitled.md",
+    "Untitled.canvas",
+    "2025-03-07.md",
+    "draft"
+  ]
+}
