@@ -17,20 +17,43 @@
 // export default config;
 
 import adapter from '@sveltejs/adapter-static';
-import {
-    vitePreprocess
-} from '@sveltejs/kit/vite';
+
+import { mdsvex } from 'mdsvex';
+
+import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
+
 
 /** @type {import('@sveltejs/kit').Config} */
+
 const config = {
-    preprocess: vitePreprocess(),
+
+    extensions: ['.svelte', '.md', '.svx'],
+
+    preprocess: [
+
+        vitePreprocess(),
+
+        mdsvex({
+
+            extensions: ['.md', '.svx'],
+
+        }),
+
+    ],
 
     kit: {
-        adapter: adapter()
+
+        adapter: adapter(),
+
         paths: {
+
             base: process.env.NODE_ENV === 'production' ? '/Unremarkable-Echoes' : '',
-        }
-    }
+
+        },
+
+    },
+
 };
+
 
 export default config;
