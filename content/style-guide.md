@@ -1,5 +1,10 @@
 ---
 title: Style Guide
+author: 
+tags: 
+date: ""
+description: 
+pinned: false
 ---
 
 Praesent sed tincidunt augue. Aliquam tincidunt mauris eros, in finibus lectus ultrices vel. Nulla elementum eros sit amet elit egestas, nec interdum ligula efficitur. Pellentesque efficitur ex ac cursus lacinia. In vestibulum lacus fermentum, sodales neque ornare, maximus nunc. Duis in ligula sit amet tortor dictum rhoncus quis quis sem. Vivamus fermentum eget ipsum vitae finibus.
@@ -52,6 +57,10 @@ Adulter dum terga pia ambagum deum! Turno terris lacus inde Phaethon spernuntque
 
 Distincta cumque. Est sua: educat nulla: nostras **exhortor**, quae bimari **procumbere tenuere**. _Aeacus_ essem di Pelops _sidera_, consumpta esse per faciat scelus [desit tu o](http://omniasola.io/hunc-illi) nitidi e remisit, nec captivarumque. Tegit moenia, porrigit deflexi pugnavique callida vocant me tendebat merito.
 
-> Arte somni tela oppressos et labens sudore, inquit, missus dedi flere, cepit iuvenem, positamque. Veniam silvarum victor nata nocere primum aureus sagittifera Iovi ecce si addit moras; iter auxerat. Ardor auro mater illa Cipe Vulcania; frigus prolem; satiatae cunctis gratus, conplevit moenia adstitit lacrimis lustrantem.
+> Arte somni tela o
+
+
+
+ppressos et labens sudore, inquit, missus dedi flere, cepit iuvenem, positamque. Veniam silvarum victor nata nocere primum aureus sagittifera Iovi ecce si addit moras; iter auxerat. Ardor auro mater illa Cipe Vulcania; frigus prolem; satiatae cunctis gratus, conplevit moenia adstitit lacrimis lustrantem.
 
 Sulphureis terrae. Es sic namque sub nitidaque frutices tellus; dira Lucifer more pro fetum et ulterius capillos, spargit et etiamnum. Lumina quaeras Macareida [sequentia](http://retineteave.com/) canebat fulvis vestros, vos Rhoetei munere mala pendebant. Delphines plurima vitibus Aeacideia argenteus factura Minos nulli iam et cibo. Pudor est [Glauci](http://hunc-est.org/perstat-ut) exiguam!

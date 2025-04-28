@@ -1,6 +1,6 @@
 const config = {
-  siteTitle: 'Tablog',
-  siteTagline: 'Minimalistic Blog Theme for SvelteKit',
+  siteTitle: 'Unremarkable Echoes',
+  siteTagline: 'Blogsite of Life and Fantasies',
   archiveTitle: 'Archive',
   dateFormat: 'MMM dd, yyyy',
 };

@@ -33,6 +33,7 @@
     color: var(--color-text);
     background-color: var(--color-background);
     text-underline-offset: 2px;
+
     & * {
       text-decoration-thickness: 1px;
     }
